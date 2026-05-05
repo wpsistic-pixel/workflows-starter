@@ -51,3 +51,5 @@
 	],
 	"upload_source_maps": true
 }
+// wrangler.jsonc
+"name": "wpistic-teamform",
